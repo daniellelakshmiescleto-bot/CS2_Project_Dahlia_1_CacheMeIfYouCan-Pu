@@ -1,5 +1,3 @@
-# Project_Template_ComputerScience2
-
 # 📊 Data Insights Dashboard Project
 
 # BaonBuddy Expense Log
