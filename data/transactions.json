@@ -1,0 +1,50 @@
+[
+  {
+    "transaction_id": "TXN-001",
+    "type": "Allowance",
+    "category": "Daily Baon",
+    "amount": 1500.00,
+    "date": "2026-11-16",
+    "note": "Weekly school allowance"
+  },
+  {
+    "transaction_id": "TXN-002",
+    "type": "Expense",
+    "category": "Food",
+    "amount": 220.00,
+    "date": "2026-11-16",
+    "note": "Canteen lunch and snacks"
+  },
+  {
+    "transaction_id": "TXN-003",
+    "type": "Expense",
+    "category": "Commute",
+    "amount": 130.00,
+    "date": "2026-11-17",
+    "note": "Jeepney and tricycle fares"
+  },
+  {
+    "transaction_id": "TXN-004",
+    "type": "Expense",
+    "category": "Food",
+    "amount": 180.00,
+    "date": "2026-11-18",
+    "note": "Lunch and bottled water"
+  },
+  {
+    "transaction_id": "TXN-005",
+    "type": "Expense",
+    "category": "School Supplies",
+    "amount": 200.00,
+    "date": "2026-11-19",
+    "note": "Index cards, folders, and pens"
+  },
+  {
+    "transaction_id": "TXN-006",
+    "type": "Expense",
+    "category": "Commute",
+    "amount": 120.00,
+    "date": "2026-11-20",
+    "note": "Round-trip school commute"
+  }
+]
