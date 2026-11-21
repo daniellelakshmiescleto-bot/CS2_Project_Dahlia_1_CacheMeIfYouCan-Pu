@@ -2,13 +2,6 @@
 
 # 📊 Data Insights Dashboard Project
 
-This repository serves as a STARTER TEMPLATE for the Yearlong Programming Project.
-
-## 📂 Repository Structure
-- `/data` → Contains sample JSON datasets you can choose from. You can also refer to Annex A for other examples.
-- `/docs` → Place your project proposal and related documentation here.
-- `README.md` → Basic introduction to your project.
-
 # BaonBuddy Expense Log
 
 ## Cache Me If You Can (8 - Dahlia, Group 1)
