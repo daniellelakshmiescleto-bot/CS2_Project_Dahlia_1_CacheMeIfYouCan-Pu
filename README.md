@@ -40,6 +40,3 @@ All records are saved persistently in a JSON file so users can track their spend
 * **Amount:** The monetary value in Philippine Pesos (₱).
 * **Date:** The date of the transaction (`YYYY-MM-DD`) to track daily and weekly trends.
 * **Description / Note:** Short details about the item or expense (e.g., *"Lunch at canteen"* or *"Jeepney fare"*).
-- Fork or clone this repository.
-- Open the datasets in the `/data` folder to explore the contents.
-- Follow the proposal template to draft your plan.
