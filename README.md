@@ -9,22 +9,37 @@ This repository serves as a STARTER TEMPLATE for the Yearlong Programming Projec
 - `/docs` → Place your project proposal and related documentation here.
 - `README.md` → Basic introduction to your project.
 
-## Instructions:
-1. Choose a dataset from the `/data` folder (e.g., students.json, sales.json, movies.json, etc.).
-2. Write your Project Proposal using the provided template in the khub.
-3. Update this `README.md` to describe your project idea. Template:
+# BaonBuddy Expense Log
 
-   - Main header: Project Title
-   - Subheading: Team name and composition
-   
-   - Questions to answer in the README (short, tentative answers okay):
-   - a. What problem are you trying to solve? Think about who has the problem, why it matters, and what people do about it today.
-   - b. What are your app's features? How does the app help solve the problem?
-   - c. What specific data will you handle?
+## Cache Me If You Can (8 - Dahlia, Group 1)
+* Ervic Cansancio
+* Vidal Diuyan III
+* Jaydeen Danielle Lagrimosa
+* Jarvis Larkin Yee
+* Danielle Lakshmi Escleto
+* Daniella Yen Salcedo
 
-5. Commit and push your changes to GitHub.
+---
 
-##  Getting Started
+### a. What problem are you trying to solve?
+Many high school students struggle to keep track of their daily school allowance (*baon*) and small everyday expenses like food, commuting fares, and school supplies. Because they often rely on memory or scattered notes, they may overspend early in the week and run short on money before Friday. **BaonBuddy Expense Log** solves this by providing a simple console application where students can log their allowances and expenses in one organized place and check their remaining balance anytime.
+
+### b. What are your app's features? How does the app help solve the problem?
+* **Add Transaction (Create):** Log a new allowance or expense entry with its amount, category, and date.
+* **View & Search Records (Read):** Browse all saved transactions or filter entries by category or date to see where money was spent.
+* **Edit Transaction (Update):** Fix mistakes in previously recorded amounts, categories, or notes.
+* **Delete Transaction (Delete):** Remove duplicate or invalid entries from the log.
+* **Budget Summary & Insights:** Automatically calculate total allowance received, total expenses, remaining balance, daily average spending, and the highest-spending category.
+
+All records are saved persistently in a JSON file so users can track their spending habits across multiple school days and weeks.
+
+### c. What specific data will you handle?
+* **Transaction ID:** Unique identifier for each entry (used to search, edit, and delete specific records).
+* **Type:** Indicates whether the entry is an `Allowance` (income) or `Expense`.
+* **Category:** Classifies the transaction (e.g., *Food*, *Commute*, *School Supplies*, *Daily Baon*, *Savings*).
+* **Amount:** The monetary value in Philippine Pesos (₱).
+* **Date:** The date of the transaction (`YYYY-MM-DD`) to track daily and weekly trends.
+* **Description / Note:** Short details about the item or expense (e.g., *"Lunch at canteen"* or *"Jeepney fare"*).
 - Fork or clone this repository.
 - Open the datasets in the `/data` folder to explore the contents.
 - Follow the proposal template to draft your plan.
